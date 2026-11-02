@@ -10,6 +10,20 @@ Personal project — a web assistant for **construction equipment operators**. I
 - **Behavior insights** — rule-based flags for excessive idling, seatbelt issues, and low fuel efficiency  
 - **Task time estimator** — predicts actual job minutes from task type, weather, operator skill, and machine age (scikit-learn + interpretable factors)
 
+## Screenshots
+
+**Daily dashboard**
+
+![Daily task dashboard](docs/screenshots/dashboard.png)
+
+**Task time estimator**
+
+![Task time estimator with historical comparison chart](docs/screenshots/task-estimator.png)
+
+**Safety center**
+
+![Safety center with telemetry and hazard monitoring](docs/screenshots/safety.png)
+
 ## Tech stack
 
 Python · Streamlit · pandas · SQLite · scikit-learn · Plotly · pytest
