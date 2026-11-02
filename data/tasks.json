@@ -1,0 +1,47 @@
+[
+  {
+    "task_id": "T001",
+    "task_type": "Earth Excavation",
+    "weather": "Sunny",
+    "operator_skill": "Expert",
+    "machine_age_yrs": 2,
+    "estimated_time_min": 60,
+    "actual_time_min": 58
+  },
+  {
+    "task_id": "T002",
+    "task_type": "Trenching",
+    "weather": "Rainy",
+    "operator_skill": "Intermediate",
+    "machine_age_yrs": 4,
+    "estimated_time_min": 45,
+    "actual_time_min": 52
+  },
+  {
+    "task_id": "T003",
+    "task_type": "Material Loading",
+    "weather": "Cloudy",
+    "operator_skill": "Beginner",
+    "machine_age_yrs": 3,
+    "estimated_time_min": 30,
+    "actual_time_min": 42
+  },
+  {
+    "task_id": "T004",
+    "task_type": "Grading",
+    "weather": "Sunny",
+    "operator_skill": "Expert",
+    "machine_age_yrs": 5,
+    "estimated_time_min": 35,
+    "actual_time_min": 33
+  },
+  {
+    "task_id": "T005",
+    "task_type": "Demolition",
+    "weather": "Windy",
+    "operator_skill": "Intermediate",
+    "machine_age_yrs": 6,
+    "estimated_time_min": 90,
+    "actual_time_min": 105
+  }
+]

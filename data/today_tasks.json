@@ -1,0 +1,35 @@
+[
+  {
+    "task_id": "TD01",
+    "title": "Morning trench extension — Sector B",
+    "task_type": "Trenching",
+    "scheduled_start": "08:00",
+    "status": "In progress",
+    "estimated_time_min": 45,
+    "weather": "Cloudy",
+    "operator_skill": "Intermediate",
+    "machine_age_yrs": 4
+  },
+  {
+    "task_id": "TD02",
+    "title": "Load-out to haul road",
+    "task_type": "Material Loading",
+    "scheduled_start": "11:30",
+    "status": "Scheduled",
+    "estimated_time_min": 30,
+    "weather": "Cloudy",
+    "operator_skill": "Intermediate",
+    "machine_age_yrs": 4
+  },
+  {
+    "task_id": "TD03",
+    "title": "Finish grade — pad level",
+    "task_type": "Grading",
+    "scheduled_start": "14:00",
+    "status": "Scheduled",
+    "estimated_time_min": 35,
+    "weather": "Sunny",
+    "operator_skill": "Intermediate",
+    "machine_age_yrs": 4
+  }
+]

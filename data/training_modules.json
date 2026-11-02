@@ -1,0 +1,30 @@
+[
+  {
+    "module_id": "M1",
+    "title": "Excavator pre-start inspection",
+    "format": "E-learning video",
+    "duration_min": 15,
+    "level": "Beginner"
+  },
+  {
+    "module_id": "M2",
+    "title": "Fuel-efficient loading cycles",
+    "format": "E-learning video",
+    "duration_min": 20,
+    "level": "Intermediate"
+  },
+  {
+    "module_id": "M3",
+    "title": "Slope work and stability basics",
+    "format": "Simulation module",
+    "duration_min": 30,
+    "level": "Intermediate"
+  },
+  {
+    "module_id": "M4",
+    "title": "Advanced grading patterns",
+    "format": "Instructor-led",
+    "duration_min": 60,
+    "level": "Expert"
+  }
+]
